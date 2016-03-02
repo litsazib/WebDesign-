@@ -1,0 +1,72 @@
+.slicknav_menu{
+	display:none;
+}
+/*iPad*/
+@media screen and (max-width: 768px) {
+#Works p{
+	max-width:95% !important;
+	margin:0 auto;
+}
+.ourteam_top p{
+	max-width:95% !important;
+	margin:0 auto;
+}
+}
+
+/*iPhone 6 landscape*/
+@media screen and (max-width: 720px) {
+}
+@media screen and (max-width: 700px) {
+}
+@media screen and (max-width: 657px){
+}
+/*Measure width, when the screen size is <=640px*/
+@media screen and (max-width: 640px){
+}
+
+/*Measure width, when the screen size is <=600px*/
+@media screen and (max-width: 600px) {
+}
+
+/*Measure width, when the screen size is <=550px*/
+@media screen and (max-width: 550px) {
+}
+
+/*Measure width, when the screen size is <=520px*/
+@media screen and (max-width: 520px) {
+}
+
+/*Measure width, when the screen size is <=480px*/
+@media screen and (max-width: 480px) {
+
+}
+
+/*Measure width, when the screen size is <=460px*/
+@media screen and (max-width: 460px){
+}
+
+/*Measure width, when the screen size is <=445px*/
+@media screen and (max-width: 445px){
+}
+
+/*Measure width, when the screen size is <=420px*/
+@media screen and (max-width: 420px) {
+}
+
+/*Measure width, when the screen size is <=380px*/
+@media screen and (max-width: 380px){
+}
+/*iPhone 6*/
+@media screen and (max-width: 375px){
+.portfolio_bottom1,.portfolio_bottom2,.portfolio_bottom2,.portfolio_bottom3,.portfolio_bottom4{
+    margin-left: 45px;
+}
+}
+
+@media screen and (max-width: 350px){
+}
+
+/*Measure width, when the screen size is <=320px*/
+@media screen and (max-width: 320px) {
+
+}

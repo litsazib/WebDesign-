@@ -42,7 +42,7 @@
    padding: 9px 56px;
 }
 #hear_me:hover{
-  background-color: #DC4A3E;
+  background-color: #f02c3c;
 }
 .about_me{
 	background-color:#F9F9F9;
@@ -141,11 +141,12 @@ margin-top:178px;
 	border:none;
 	padding:6px;
 	max-width:170px;
-	font-family: Raleway medium;
 	font-size:18pt;
-	border-radius:3px;
 	color:#fff;
 	margin-left: 165px;
+}
+.hire_me1:hover{
+	background-color:#f02c3c;
 }
 .form-control{
     border-radius: 0;
@@ -202,7 +203,24 @@ margin-top:178px;
 	height:5px;
 	border-radius:0px;
 }
-
+.massage_top h1{
+	font-size:22pt;
+	color:#474747;
+}
+.massage_right i{
+	font-size:45px;
+	cursor:pointer;
+	margin-left: 97px;
+	padding: 21px;
+}
+.massage_right h1{
+	font-size:22pt;
+	color:#3e3e3e;
+}
+.massage_right p{
+	font-size:13pt;
+	color:#9D9D9D;
+}
 .ui-slider-horizontal .ui-slider-handle{
 	top: -7px !important;
 }

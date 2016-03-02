@@ -1,2 +1,2 @@
 # WebDesign-
-powered by:CodingAvatar inc.
+Powered by-CodingAvatar Inc.

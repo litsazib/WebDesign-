@@ -189,18 +189,20 @@ margin-top:178px;
   padding-bottom: 70px;
 }
 
-#slider-range-min{
+#slider-range-min,
+#slider-range-min1,
+#slider-range-min2,
+#slider-range-min3,
+#slider-range-min4,
+#slider-range-min5,
+#slider-range-min6,
+#slider-range-min7,
+#slider-range-min8
+{
 	height:5px;
 	border-radius:0px;
 }
-#slider-range-min1{
-	height:5px;
-	border-radius:0px;
-}
-#slider-range-min2{
-	height:5px;
-	border-radius:0px;
-}
+
 .ui-slider-horizontal .ui-slider-handle{
 	top: -7px !important;
 }
